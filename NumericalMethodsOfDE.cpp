@@ -1,3 +1,5 @@
+//the answer obtained is same for h = 0.0001 and 0.00001, therefore I have taken h fixed at 0.0001.
+
 #include <bits/stdc++.h>
 using namespace std;
 
